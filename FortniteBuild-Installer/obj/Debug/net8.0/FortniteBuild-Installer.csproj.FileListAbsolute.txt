@@ -1,0 +1,15 @@
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\bin\Debug\net8.0\FortniteBuild-Installer.exe
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\bin\Debug\net8.0\FortniteBuild-Installer.deps.json
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\bin\Debug\net8.0\FortniteBuild-Installer.runtimeconfig.json
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\bin\Debug\net8.0\FortniteBuild-Installer.dll
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\bin\Debug\net8.0\FortniteBuild-Installer.pdb
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.AssemblyInfoInputs.cache
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.AssemblyInfo.cs
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.csproj.CoreCompileInputs.cache
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.sourcelink.json
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.dll
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\refint\FortniteBuild-Installer.dll
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.pdb
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\FortniteBuild-Installer.genruntimeconfig.cache
+C:\Users\samwa\Documents\GitHub\FortniteBuild-Installer\FortniteBuild-Installer\obj\Debug\net8.0\ref\FortniteBuild-Installer.dll
