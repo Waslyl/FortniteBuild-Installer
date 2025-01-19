@@ -24,6 +24,7 @@ namespace FortniteBuildInstaller
 
         static async Task Main(string[] args)
         {
+            Console.Title = "FortniteBuild Installer";
             Dictionary<string, string> messages;
 
             Console.ForegroundColor = ConsoleColor.Green;
