@@ -38,18 +38,23 @@ namespace FortniteBuildInstaller
             {
                 case "1":
                     messages = Languages.English;
+                    Console.Clear();
                     break;
                 case "2":
                     messages = Languages.French;
+                    Console.Clear();
                     break;
                 case "3":
                     messages = Languages.German;
+                    Console.Clear();
                     break;
                 case "4":
                     messages = Languages.Spanish;
+                    Console.Clear();
                     break;
                 case "5":
                     messages = Languages.Italian;
+                    Console.Clear();
                     break;
                 default:
                     Console.ForegroundColor = ConsoleColor.Red;
@@ -67,9 +72,12 @@ namespace FortniteBuildInstaller
                 new Build("3.5-CL-4008490", "11-04-18", "UE4.20-4008490", "https://galaxiafn.co.uk/3.5.zip"),
                 new Build("4.2-CL-4072250", "16-05-18", "UE4.20-4072250", "https://galaxiafn.co.uk/4.2.zip"),
                 new Build("7.30-CL-4834550", "29-01-19", "UE4.22-4834550", "https://galaxiafn.co.uk/7.30.zip"),
+                new Build("8.00-CL-5203069", "28-02-19", "UE4.22", "https://galaxiafn.co.uk/8.00.zip"),
                 new Build("8.50-CL-6058028", "25-04-19", "UE4.23", "https://galaxiafn.co.uk/8.50.zip"),
                 new Build("8.51-CL-6165369", "02-05-19", "UE4.23", "https://galaxiafn.co.uk/8.51.zip"),
-                new Build("11.00-CL-9603448", "15-10-19", "UE4.24", "https://galaxiafn.co.uk/11.00.zip")
+                new Build("11.00-CL-9603448", "15-10-19", "UE4.24", "https://galaxiafn.co.uk/11.00.zip"),
+                new Build("15.50-CL-15526472", "02-03-21", "UE4.26", "https://galaxiafn.co.uk/15.50.zip"),
+                new Build("16.50-CL-16432754", "26-05-21", "UE4.26.1", "https://galaxiafn.co.uk/16.50.zip")
             };
 
             Console.WriteLine(messages["welcome"]);
