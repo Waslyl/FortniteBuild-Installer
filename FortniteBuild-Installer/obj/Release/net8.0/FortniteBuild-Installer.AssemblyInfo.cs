@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FortniteBuild-Installer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b960c122d7c00e9865dd3ca2df1ad8c72c31513")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+823fa5f42070efaeb71568b587fce7d61449b7ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("FortniteBuild-Installer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FortniteBuild-Installer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
