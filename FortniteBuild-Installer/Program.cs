@@ -65,15 +65,15 @@ namespace FortniteBuildInstaller
 
             List<Build> builds = new List<Build>
             {
-                new Build("OT6.5-CL-2870186", "28-02-16", "UE4.12-2870186", "https://galaxiafn.co.uk/0.6.5.zip"),
-                new Build("1.7.2-CL-3700114", "17-10-17", "UE4.16-3700114", "https://galaxiafn.co.uk/1.7.2.zip"),
-                new Build("1.11-CL-3807424", "14-12-17", "UE4.19-3807424", "https://galaxiafn.co.uk/1.11.zip"),
-                new Build("2.4.0-CL-3858292", "01-02-18", "UE4.19-3858292", "https://galaxiafn.co.uk/2.4.0.zip"),
-                new Build("3.0-CL-3901517", "21-02-18", "UE4.20-4008490", "https://galaxiafn.co.uk/3.0.zip"),
-                new Build("3.5-CL-4008490", "11-04-18", "UE4.20-4008490", "https://galaxiafn.co.uk/3.5.zip"),
-                new Build("4.2-CL-4072250", "16-05-18", "UE4.20-4072250", "https://galaxiafn.co.uk/4.2.zip"),
+                new Build("OT6.5-CL-2870186", "28-02-16", "UE4.12", "https://galaxiafn.co.uk/0.6.5.zip"),
+                new Build("1.7.2-CL-3700114", "17-10-17", "UE4.16", "https://galaxiafn.co.uk/1.7.2.zip"),
+                new Build("1.11-CL-3807424", "14-12-17", "UE4.19", "https://galaxiafn.co.uk/1.11.zip"),
+                new Build("2.4.0-CL-3858292", "01-02-18", "UE4.19", "https://galaxiafn.co.uk/2.4.0.zip"),
+                new Build("3.0-CL-3901517", "21-02-18", "UE4.20", "https://galaxiafn.co.uk/3.0.zip"),
+                new Build("3.5-CL-4008490", "11-04-18", "UE4.20", "https://galaxiafn.co.uk/3.5.zip"),
+                new Build("4.2-CL-4072250", "16-05-18", "UE4.20", "https://galaxiafn.co.uk/4.2.zip"),
                 new Build("5.41-CL-4363240", "19-09-18", "UE4.21", "https://galaxiafn.co.uk/5.41.zip"),
-                new Build("7.30-CL-4834550", "29-01-19", "UE4.22-4834550", "https://galaxiafn.co.uk/7.30.zip"),
+                new Build("7.30-CL-4834550", "29-01-19", "UE4.22", "https://galaxiafn.co.uk/7.30.zip"),
                 new Build("8.00-CL-5203069", "28-02-19", "UE4.22", "https://galaxiafn.co.uk/8.00.zip"),
                 new Build("8.50-CL-6058028", "25-04-19", "UE4.23", "https://galaxiafn.co.uk/8.50.zip"),
                 new Build("8.51-CL-6165369", "02-05-19", "UE4.23", "https://galaxiafn.co.uk/8.51.zip"),
